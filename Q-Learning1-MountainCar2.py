@@ -1,6 +1,4 @@
 
-
-
 import numpy as np
 import pandas as pd
 import gym
@@ -102,7 +100,6 @@ plt.plot(agg_ep_reward['ep'], agg_ep_reward['max'], label="max rewards")
 plt.plot(agg_ep_reward['ep'], agg_ep_reward['min'], label="min rewards")
 plt.legend(loc=4)
 plt.show()
-
 
 
 
