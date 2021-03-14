@@ -1,5 +1,3 @@
-#---------------In the name of GOD-----------#
-
 
 # THIS IS CODE FOR CARTPOLE GAME FROM OPEN-AI(gym)
 
