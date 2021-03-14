@@ -1,8 +1,5 @@
 
-
-
-'''
-
+# '''
 import numpy as np
 import pandas as pd
 import gym
@@ -147,7 +144,7 @@ for x, x_vals in enumerate(q_table):
 
 
 plt.show()
-'''
+# '''
 
 
 
